@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="afd37e23-2a8e-4ccf-9eed-e514e70ff4dc" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/L2022112535_18_Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/workflows/yzr.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/yzr.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -115,7 +114,7 @@
       <option name="presentableId" value="Default" />
       <updated>1733820757695</updated>
       <workItem from="1733820758737" duration="541000" />
-      <workItem from="1733821383524" duration="1237000" />
+      <workItem from="1733821383524" duration="1528000" />
     </task>
     <servers />
   </component>
