@@ -10,7 +10,7 @@ on:
 
 jobs:
   run_tests:
-    runs-on: ubuntu-22.04 # 或者 ubuntu-24.04
+    runs-on: ubuntu-22.04
 
     steps:
       - name: Checkout the repository
@@ -20,6 +20,7 @@ jobs:
         uses: actions/setup-java@v3
         with:
           java-version: 17
+          distribution: 'temurin' # 指定 JDK 分发版本
 
       - name: Cache Maven dependencies
         uses: actions/cache@v3
