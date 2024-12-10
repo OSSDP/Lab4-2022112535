@@ -33,9 +33,9 @@ jobs:
 
       # 3. 缓存 Maven 依赖
       - name: Cache Maven dependencies
-        uses: actions/cache@v2
+        uses: actions/cache@v3
         with:
-          path: ~/.m2/repository # Maven 本地依赖的默认路径
+          path: ~/.m2/repository
           key: ${{ runner.os }}-maven-${{ hashFiles('**/pom.xml') }}
           restore-keys: |
             ${{ runner.os }}-maven-
