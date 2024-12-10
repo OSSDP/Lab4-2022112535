@@ -5,21 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="afd37e23-2a8e-4ccf-9eed-e514e70ff4dc" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/bluecatcode_junit_4_10_extended.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab4.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Solution18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Solution.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/java/L2022112535_18_Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab4code/main/java/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab4code/test/java/SolutionTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +61,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "模块",
+    "project.structure.last.edited": "库",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.Language Defaults",
@@ -90,6 +77,9 @@
       <recent name="$PROJECT_DIR$/lab4code/test" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="" />
     </key>
   </component>
@@ -125,7 +115,7 @@
       <option name="presentableId" value="Default" />
       <updated>1733820757695</updated>
       <workItem from="1733820758737" duration="541000" />
-      <workItem from="1733821383524" duration="859000" />
+      <workItem from="1733821383524" duration="1237000" />
     </task>
     <servers />
   </component>
