@@ -9,6 +9,8 @@ on:
   pull_request:
     branches:
       - main
+      - feature/*
+#auto  pr from dev-Jenkins to main
 
 # 定义任务
 jobs:
